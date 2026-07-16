@@ -1,6 +1,6 @@
 # Git Commands Summary
 #### Full list available at: https://git-scm.com/cheat-sheet
-
+a
 | Command | Purpose |
 |---------|---------|
 | `git status` | Show working tree and staging area status |

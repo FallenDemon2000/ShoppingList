@@ -7,3 +7,6 @@ Family Shopping List:
 - Minis
 - Coal
 - Meat
+- Bacon
+- Wine
+- Cheese

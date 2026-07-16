@@ -23,7 +23,7 @@
 | `git pull [--rebase/--merge]` | Download and rebase/merge remote changes |
 | `git fetch` | Download remote changes |
 | `git checkout [-b] <branch>` | Switch to selected branch,[-b] to also create branch |
-| `git rebase` | Rebase current branch onto selected branch |
+| `git rebase` | Rebase current branch onto selected branch |git
 | `git merge` | Merge selected branch into current branch |
 
 
